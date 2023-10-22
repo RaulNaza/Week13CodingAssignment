@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Components */
+
+.input-login {
+  margin-top: 2rem;
+}
+
+.login-form {
+  margin: auto;
+  margin-top: 2rem;
+  border-style: inset;
+  border-width: thick;
+  width: 20%;
+}
+
+nav a {
+  margin-left: 1rem;
+  color: blue;
+
+}
+
+body {
+  background-image: linear-gradient(to right, #e6646473, #9198e5);
+}
